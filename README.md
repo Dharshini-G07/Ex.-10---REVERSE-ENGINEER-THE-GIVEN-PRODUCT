@@ -31,10 +31,10 @@ To reverse engineering the product and prototyping the same in 3D printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/user-attachments/assets/bf7ad8c3-0787-4aab-a786-124e69452f51)
 
 ### Output:
-![image](https://github.com/user-attachments/assets/ef7479f2-1cc0-4a31-8cd7-2657b1e8ed7a)
+![image](https://github.com/user-attachments/assets/4bb8a337-679a-4b92-bd48-4a464731a3b6)
+
 
 
 ### Name:PRIYADHARSHINI G
